@@ -43,3 +43,6 @@ class BIT:
 6. Segment tree element are stored at index n+i
 
 '''
+
+if __name__ == "__main__":
+    seg_tree = BIT()
